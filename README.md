@@ -23,7 +23,10 @@ I'm always open to collaboration, feedback, and learning from the developer comm
 ---
 
 🔗 *Thanks for checking out my profile!*
-## Hi there 👋
+
+![](https://github-readme-stats.vercel.app/api?username=Narasimhayadav55&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimhayadav55&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!--
 **Narasimhayadav55/Narasimhayadav55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
